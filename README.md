@@ -1,6 +1,6 @@
 # Chuni Switch
 
-Chuni Switch is a program created using Electron, React, and Vite, designed to provide seamless one-click card management for your Chuni game. Whether you want to import current `aime.txt`, switch card numbers effortlessly, add new cards, generate randomized card numbers, create card names, or change `aime.txt` directory, Chuni Switch has you covered.
+Chuni Switch is a program created using Electron, React, and Vite, designed to provide seamless one-click card management for your Chuni game. Whether you want to import current `aime.txt`, add new cards, generate randomized card numbers, create card names, or switch card numbers effortlessly, Chuni Switch has you covered. You can even switch cards while the game is still running!
 
 ## Features
 
