@@ -1,0 +1,30 @@
+.card {
+  display: flex;
+  gap: 1rem;
+  margin: 0 0.5rem 1rem 0;
+  border: 1px solid whitesmoke;
+  padding: 1rem;
+}
+
+p {
+  margin: 0;
+}
+
+.cardInfo {
+  text-align: left;
+}
+
+.selected {
+  background-color: rgba(98, 255, 98, 0.3);
+}
+
+.verticalAlign {
+  display: flex;
+  align-items: center;
+}
+
+.generateButton {
+  font-size: 12px;
+  width: 100%;
+  margin-top: 0.25rem;
+}
