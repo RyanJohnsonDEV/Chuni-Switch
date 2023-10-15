@@ -19,39 +19,7 @@ Chuni Switch is a program created using Electron, React, and Vite, designed to p
 
 ## Getting Started
 
-Follow these steps to get started with Chuni Switch:
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/yourusername/Chuni-Switch.git
-    ```
-
-2. Install dependencies using npm or yarn:
-
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    npm run dev
-    # or
-    yarn dev
-    ```
-
-4. Build the application:
-
-    ```bash
-    npm run build:win
-    # or
-    yarn build
-    ```
-
-5. Launch the application.
+Download the latest release from the Releases page [Here](https://github.com/RyanJohnsonDEV/Chuni-Switch/releases).
 
 ## Contributing
 
